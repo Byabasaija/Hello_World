@@ -6,7 +6,8 @@ Hello world
 <body>
 <h1> Hello world
 I am a web developer based in uganda.
+
 </h1>
-<p> Hello out there<p>
+<p> Hello out there, trying to test and learn to use git hub<p>
 </body>
 </html>
